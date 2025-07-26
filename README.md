@@ -28,7 +28,7 @@ The following index lays out a full-semester laboratory programme (12 bi-weekly 
 
 - Install R ≥ 4.3, RStudio, Git, and basic TeX distribution.
 - Create free accounts on GitHub, Overleaf, Kaggle, Posit Cloud, and shinyapps.io.
-- Fork the shared repository `peer-to-peer-data-science-ai-lab` and clone locally.
+- Fork the shared repository `lab-p2p` and clone locally.
 
 
 ### Pre-lab Checklist
@@ -55,15 +55,6 @@ The following index lays out a full-semester laboratory programme (12 bi-weekly 
 3. Faceting, scales, themes, annotations [^10][^11].
 4. Extension ecosystem (`gganimate`, `patchwork`, `ggthemes`).
 5. TidyTuesday case study: reproduce Cedric Scherer’s energy chart [^10].
-
-### Session Structure
-
-| Slot | Activity | Minutes |
-| :-- | :-- | :-- |
-| Warm-up | Mini-quiz on chart critique | 10 |
-| Live coding | Build base plot from TidyTuesday CSV | 25 |
-| Breakout | Groups add layers (facets, labels, palettes) | 35 |
-| Debrief | Show-and-tell \& peer feedback | 20 |
 
 ### Key Resources
 
@@ -104,12 +95,6 @@ The following index lays out a full-semester laboratory programme (12 bi-weekly 
 4. Overleaf real-time collaboration \& Git integration [^16][^17].
 5. Building a template for course term papers.
 
-### Workshop Flow
-
-- **Demo (20 min):** Compile EPUB and PDF simultaneously using `latexmk`.
-- **Hands-on (40 min):** Insert a regression table via `stargazer`; cross-ref in text.
-- **Round-up (30 min):** Troubleshoot common errors (“Undefined control sequence”, emoji in UTF-8, etc.).
-
 
 ### Curated Resources
 
@@ -148,13 +133,6 @@ The following index lays out a full-semester laboratory programme (12 bi-weekly 
 3. Server logic: `renderPlot`, `reactive`, `observeEvent` [^21].
 4. Deployment options (shinyapps.io, Posit Connect, Docker).
 5. Enhancements: `bslib`, `shinythemes`, loading screens [^22].
-
-### Session Breakdown
-
-| Week 7 | Week 8 |
-| :-- | :-- |
-| *Day 1:* Build “Hello Shiny” histogram [^4]. | *Day 1:* Add interactivity — filters \& download. |
-| *Day 2:* UI customisation with `bslib` themes [^23]. | *Day 2:* Deploy to shinyapps.io; CI hook. |
 
 ### Learning Materials
 
@@ -231,36 +209,8 @@ Use ChatGPT to generate boilerplate code for a Shiny module, then review and ref
 
 - **Live demo:** 5-minute Shiny dashboard or Quarto blog.
 - **Repository health:** README, licence, issue tracker.
-- **Reflection essay:** 800 words on skill growth; submit via Overleaf as PDF.
 
 Peers assess using rubrics hosted in GitHub Issues; maintainers merge feedback as discussions.
-
-## Optional Deep-Dive A — Spatial Data \& Mapping
-
-### Highlights
-
-- Simple features (`sf`) basics; CRS transformations.
-- Cartographic palettes (`viridis`, `tmap`).
-- Interactive maps with `leaflet` layers.
-
-Resource: *Choropleth map* section in ggplot2 cheat repo [^12].
-
-## Optional Deep-Dive B — Advanced Visual Design
-
-- Corporate theming with `ggtheme` objects.
-- `patchwork` and `cowplot` for multi-panel layouts.
-- Animated storytelling with `gganimate`.
-
-Exercise: Build a branded theme, publish as R package on GitHub; write installation vignette.
-
-## Assessment \& Grading Scheme
-
-| Component | Weight |
-| :-- | :-- |
-| Weekly hands-on submissions | 35% |
-| Capstone visual/story post | 25% |
-| Shiny/Quarto final demo | 30% |
-| Peer review participation | 10% |
 
 ## Reading \& Resource Master Table
 
@@ -277,9 +227,8 @@ Exercise: Build a branded theme, publish as R package on GitHub; write installat
 
 ## Logistics \& Community Channels
 
-- **Repo:** `https://github.com/your-org/peer-to-peer-data-science-ai-lab`
-- **Chat:** Discord “\#datascience-lab” server for Q\&A.
-- **Weekly check-in:** Fridays 17:00 CET on Google Meet.
+- **Repo:** `https://github.com/your-org/lab-p2p`
+- **Chat:** Discord “\#unifi-end-labp2p” server for Q\&A.
 - **Issue tracker:** Use labels `help-wanted`, `resource-suggestion`, `session-idea`.
 
 
