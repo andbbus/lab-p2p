@@ -7,20 +7,18 @@ The following index lays out a full-semester laboratory programme (12 bi-weekly 
 
 ## Programme Map \& Sequence
 
-| Week | Theme | Core Skills | Capstone Output |
+| Module | Theme | Core Skills | Capstone Output |
 | :-- | :-- | :-- | :-- |
 | 0 | On-boarding \& Toolchain Setup | R/RStudio, Git, Overleaf accounts | Working development environment |
-| 1–2 | Data Visualisation with ggplot2 | Grammar of Graphics, plot types | Re-create a TidyTuesday chart |
-| 3–4 | Reproducible Documents with RMarkdown \& Quarto | Dynamic reports, slides, blogs | Publish a brief data story |
-| 5 | Technical Writing in LaTeX (Overleaf) | Academic layouts, citations | Conference-style paper template |
-| 6 | Git \& GitHub Workflow | Version control, collaboration | Personal portfolio repository |
-| 7–8 | Interactive Apps with Shiny | Reactive programming, UI design | Deploy a mini dashboard |
-| 9 | Data Challenges (TidyTuesday \& Kaggle) | Wrangling, EDA, storytelling | TidyTuesday challenge submission |
-| 10 | Replication Packages \& Open Science | Codebooks, data sharing | Reproduce a published figure |
-| 11 | Large-Language Models for Research | Prompt engineering, code assist | AI-accelerated literature matrix |
-| 12 | Showcase \& Peer Review | Presentation, feedback loops | Live demo \& portfolio critique |
-| Optional A | Spatial Data \& Mapping | sf, tmap, leaflet | Choropleth for an SDG indicator |
-| Optional B | Advanced Visual Design | Themes, brand palettes | House-style ggplot2 theme R pkg |
+| 1 | Data Visualisation with ggplot2 | Grammar of Graphics, plot types | Re-create a TidyTuesday chart |
+| 2 | Reproducible Documents with RMarkdown \& Quarto | Dynamic reports, slides, blogs | Publish a brief data story |
+| 3 | Technical Writing in LaTeX (Overleaf) | Academic layouts, citations | Conference-style paper template |
+| 4 | Git \& GitHub Workflow | Version control, collaboration | Personal portfolio repository |
+| 5 | Interactive Apps with Shiny | Reactive programming, UI design | Deploy a mini dashboard |
+| 6 | Data Challenges (TidyTuesday \& Kaggle) | Wrangling, EDA, storytelling | TidyTuesday challenge submission |
+| 7 | Replication Packages \& Open Science | Codebooks, data sharing | Reproduce a published figure |
+| 8 | Large-Language Models for Research | Prompt engineering, code assist | AI-accelerated literature matrix |
+| 9 | Showcase \& Peer Review | Presentation, feedback loops | Live demo \& portfolio critique |
 
 ## Session 0 — Kick-Off \& Environment Boot-Strap
 
