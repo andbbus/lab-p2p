@@ -1,8 +1,6 @@
 ## lab-p2p
 Repo for the peer-to-peer lab of Economics &amp; Development
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Peer-to-Peer Data Science \& AI Lab — Comprehensive Syllabus \& Resource Index
 
 The following index lays out a full-semester laboratory programme (12 bi-weekly sessions plus two optional deep-dives).  Each topic includes (1) a concise syllabus with learning outcomes, (2) a recommended session structure, and (3) curated, English-language resources for self-study and hands-on exercises.  All materials are openly accessible and were selected for beginners and intermediate users in Economics \& Development.
