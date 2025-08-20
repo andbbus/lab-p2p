@@ -1,2 +1,7 @@
+
+## Resources
+
+### Books:
+
 https://ggplot2-book.org/
 
