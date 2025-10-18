@@ -157,6 +157,7 @@ Each session includes:
 - [GitHub Learning Lab](https://lab.github.com/)
 - [ggplot2 Cheat Sheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
 - [Mastering Shiny](https://mastering-shiny.org/basic-app.html)
+- LitLLM (https://litllm.github.io/)
 
 ### Community
 - **Discord:** Real-time Q&A and peer support
