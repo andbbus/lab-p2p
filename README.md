@@ -1,13 +1,13 @@
-# Peer-to-Peer Data Science Lab (MVP – Spring 2026)
+# Peer-to-Peer Lab (Spring 2026)
 
 ## Overview
 
-Welcome to the **Peer-to-Peer Data Science Lab – MVP Edition!**
+Welcome to the **Peer-to-Peer Lab**
 
-This initiative is designed as a hands-on, collaborative series of workshops geared towards students in Economics & Development (and other social sciences) who want practical skills for conducting impactful research.
+This initiative is designed as a hands-on, collaborative series of workshops geared towards students in Economics & Development who want practical skills for conducting impactful research.
 
 **Spring 2026 Features:**
-- 6 focused sessions (bi-weekly format)
+- 5 focused sessions
 - Targeted at students working on thesis/research projects
 - Peer-to-peer learning approach
 - Immediate application to your own work
@@ -66,18 +66,11 @@ By the end of the program, participants will have:
 - Export and formatting for papers
 - **Output:** Publication-ready figure set
 
-### Session 6: Interactive Dashboards with Shiny
-**Focus:** Dynamic data presentation
-- Basic reactive programming
-- Economic dashboard design
-- Deployment and sharing
-- **Output:** Live research dashboard
-
 ---
 
 ## Session Format
 
-Each session includes:
+Each session includes (roughly):
 - **20 minutes:** Concept introduction and theory
 - **60 minutes:** Hands-on practical activity
 - **10 minutes:** Peer sharing and next steps
@@ -89,25 +82,22 @@ Each session includes:
 
 - Students preparing for their thesis or research project
 - Anyone interested in reproducible, impactful data science workflows
-- Beginners to intermediate – all backgrounds welcome!
 - Perfect for Economics & Development students (but open to all)
 
 ---
 
 ## Prerequisites
 
-- Basic familiarity with R (help will be provided!)
-- University email account
-- Laptop for hands-on exercises
-- Enthusiasm for collaborative learning
+- Basic familiarity with R – self study materials will be provided
+- Laptop for hands-on exercises – eventually we could think of booking lab room
 
 ---
 
-## Success Metrics for MVP
+## Satisfactory metrics
 
 **Primary Goals:**
 - 12-15 enrolled participants (manageable cohort size)
-- 80%+ retention rate through all 6 sessions
+- 80%+ retention rate through all 5 sessions
 - 6 complete portfolios submitted at showcase
 
 **Learning Outcomes:**
@@ -126,7 +116,7 @@ Each session includes:
 1. Install R and RStudio
 2. Create GitHub account
 3. Create Overleaf account
-4. Join Discord community (link provided upon registration)
+4. Join the Google Classroom (to setup)
 
 ---
 
@@ -141,10 +131,10 @@ Each session includes:
 
 ## Future Vision
 
-### If MVP Succeeds
+### If Spring 2026
 - **Fall 2026:** Expanded 9-session program
-- **Long-term:** Semester-long certificate program
-- **Scaling:** Integration with thesis supervision
+- **Long-term:** Semester-long certificate program (let's see if bureaucracy is on our side..)
+- **Scaling:** Integration with thesis supervision (or attendance somehow incouraged)
 - **Network:** Alumni mentorship system
 
 ---
@@ -156,13 +146,10 @@ Each session includes:
 - [Overleaf LaTeX Tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [ggplot2 Cheat Sheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf)
-- [Mastering Shiny](https://mastering-shiny.org/basic-app.html)
-- LitLLM (https://litllm.github.io/)
 
 ### Community
-- **Discord:** Real-time Q&A and peer support
 - **GitHub Issues:** Resource suggestions and session ideas
-- **Email:** p2plab.unifi@gmail.com
+- **Email:** **TO DO**
 
 ---
 
@@ -184,16 +171,10 @@ This project is open-source and freely available for educational purposes.
 
 ## Contact
 
-**Email:** p2plab.unifi@gmail.com  
+**Email:** andrea.busolo@edu.unifi.it
 **GitHub Issues:** For suggestions and improvements  
-**Discord:** Community support (link provided to participants)
 
----
-
-*This MVP approach reduces complexity while maintaining impact, allowing us to test the concept, gather feedback, and build momentum for a larger program in Fall 2026.*
-
----
 
 ## Archive: Full Program Documentation
 
-For reference, the complete 12-session curriculum with extensive resources is preserved in the `archive/` folder. The MVP focuses on the 6 most essential skills for immediate research application.
+For reference, the complete 12-session curriculum with extensive resources is preserved in the `archive/` folder. The MVP focuses on the 5 most essential skills for immediate research application.
