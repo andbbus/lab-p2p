@@ -33,7 +33,7 @@ By the end of the program, participants will have:
 
 ### Session 1: Research Project Development
 **Focus:** How to develop a research project and address research questions
-- Research question formulation (SMART criteria)
+- Research question formulation
 - Literature gap identification
 - Methodology selection frameworks
 - **Output:** One-page research proposal template
