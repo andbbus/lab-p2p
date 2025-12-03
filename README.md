@@ -29,7 +29,7 @@ By the end of the program, participants will have:
 
 ## Program Structure
 
-**6 Sessions (90 minutes each, bi-weekly):**
+**6 Sessions (90 minutes each):**
 
 ### Session 1: Research Project Development
 **Focus:** How to develop a research project and address research questions
